@@ -10,7 +10,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Fritz.EpicBuildMusic.Core")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyCopyright("Copyright Jeff Fritz and Friends ©2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
